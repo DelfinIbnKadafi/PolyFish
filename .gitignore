@@ -1,2 +1,4 @@
 .import/
-.export/*
+.export/polyfish.apk
+.export/polyfish.apk.idsig
+.export/polyfish.exe
