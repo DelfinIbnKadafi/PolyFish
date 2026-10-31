@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dragon-studio-footsteps-on-wood-397989_ATwNKhUg.mp3-5bfdff1b8a759b8d0628310b519842e4.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/dragon-studio-footsteps-on-wood-397989_ATwNKhUg.mp3"
+dest_files=[ "res://.import/dragon-studio-footsteps-on-wood-397989_ATwNKhUg.mp3-5bfdff1b8a759b8d0628310b519842e4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fishing_boat_low_poly_style.obj-3c210f84cb2593d39f394f5cbd74b9c2.mesh"
+
+[deps]
+
+files=[ "res://.import/fishing_boat_low_poly_style.obj-3c210f84cb2593d39f394f5cbd74b9c2.mesh" ]
+
+source_file="res://assets/boat/fishing_boat_low_poly_style.obj"
+dest_files=[ "res://.import/fishing_boat_low_poly_style.obj-3c210f84cb2593d39f394f5cbd74b9c2.mesh", "res://.import/fishing_boat_low_poly_style.obj-3c210f84cb2593d39f394f5cbd74b9c2.mesh" ]
+
+[params]
+
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh_flags=4286
+generate_tangents=true
+vertex_cache_optimization=true
+octahedral_compression=true

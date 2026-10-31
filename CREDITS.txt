@@ -1,0 +1,14 @@
+Engine Game : Godot 3.6.3
+Fonts :
+ - Inter Variable Font (https://github.com/rsms/inter)
+ - Goldy Burst (Dm Letter Studio)
+Maps :
+ - Boats : Fishing Boat (@liborv) (Sketchfab)
+ - Sun : Low Poly SUn (@herrwoland) (Sketchfab)
+Sounds :
+ - Background Sound : Calm Ocean Sounds (@Ocean Sounds) Provided to YouTube by TuneCore
+Characters :
+ - Inspired By Fino Chan (Developer's best friend)
+Items :
+ - Hand (@Enalya) (Sketchfab)
+ - Fishing Rod (@TepidGame) (Sketchfab)

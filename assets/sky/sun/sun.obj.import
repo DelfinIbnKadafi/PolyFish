@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sun.obj-9e0e7297d0ca51d5eb88c3e1cb965a6c.mesh"
+
+[deps]
+
+files=[ "res://.import/sun.obj-9e0e7297d0ca51d5eb88c3e1cb965a6c.mesh" ]
+
+source_file="res://assets/sky/sun/sun.obj"
+dest_files=[ "res://.import/sun.obj-9e0e7297d0ca51d5eb88c3e1cb965a6c.mesh", "res://.import/sun.obj-9e0e7297d0ca51d5eb88c3e1cb965a6c.mesh" ]
+
+[params]
+
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh_flags=4286
+generate_tangents=true
+vertex_cache_optimization=true
+octahedral_compression=true
